@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">samsung20241118</string>
+    <string name="sign_in_text">Sign In</string>
+    <string name="username_text">username</string>
+    <string name="password_text">password</string>
+    <string name="button_text">sign in</string>
+    <string name="forgot_password_text">forgot password?</string>
+    <string name="create_acc_text">create new account</string>
+</resources>
